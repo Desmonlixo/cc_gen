@@ -11,7 +11,11 @@ The platform seeks:
 
 ## Flow Chart
 
-The flow chart is a walkthrough of user interactions with the library page
+The flow chart is a walkthrough of user interactions with the library page.
+<p align="center">
+  <img src="https://github.com/Desmonlixo/cc_gen/blob/main/Milestone_1/Library_page_flow_chart/Library_page_flowchart_TeamLarkw2.jpeg" alt="flowchart_library_page">
+</p>
+
 
 
 
