@@ -1,1 +1,19 @@
-# cc_gen
+# Credit Card Design Library
+
+The scope of this project is to create a platform that has a library of credit card designs. This system is based on a relational database with the library and user functions. We hope to provide a comfortable user experience.
+
+## Functionality:
+
+The platform seeks:
+1.	to provide a collection of credit card designs.
+2.	to give authenticated users to save and download designs or do so later.
+
+
+## Flow Chart
+
+The flow chart is a walkthrough of user interactions with the library page
+< ! -------- flowchart here -------- >
+
+
+## Conclusion
+This project is a prototype for an online credit card library and it is restricted within the I4G x Zuri Project Phase premises. This has been implemented under the guidance of I4G x Zuri mentors. This project is useful for users as well as the project team.
