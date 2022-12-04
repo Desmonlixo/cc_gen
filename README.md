@@ -12,7 +12,7 @@ The platform seeks:
 ## Flow Chart
 
 The flow chart is a walkthrough of user interactions with the library page
-< ! -------- flowchart here -------- >
+
 
 
 ## Conclusion
