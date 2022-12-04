@@ -18,16 +18,20 @@ The flow chart is a walkthrough of user interactions with the library page.
 
 
 
+
 ###  Milestone 1
 #### Task Title: Documentation and Design Sketch
 You are expected to do the following: 
 
-* ** Documentation ** 
-* ** Design Sketch **
-* ** GitHub Repo with read.me content ** 
-* ** [Data Schema]() **
-* ** mood boards **
+* **[Documentation](#)** 
 
+* **[Design Sketch](#)**
+
+* **[GitHub Repo with read.me content]()** 
+
+* **[Data Schema]()**
+
+* **[Mood Boards](#)**
 
 
 
