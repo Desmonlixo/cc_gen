@@ -18,6 +18,24 @@ The flow chart is a walkthrough of user interactions with the library page.
 
 
 
+###  Milestone 1
+#### Task Title: Documentation and Design Sketch
+You are expected to do the following: 
+
+* ** Documentation ** 
+* ** Design Sketch **
+* ** GitHub Repo with read.me content ** 
+* ** [Data Schema]() **
+* ** mood boards **
+
+
+
+
+
+
+
+
+
 
 ## Conclusion
 This project is a prototype for an online credit card library and it is restricted within the I4G x Zuri Project Phase premises. This has been implemented under the guidance of I4G x Zuri mentors. This project is useful for users as well as the project team.
