@@ -29,7 +29,7 @@ You are expected to do the following:
 
 * **[GitHub Repo with read.me content]()** 
 
-* **[Data Schema]()**
+* **[Data Schema](https://github.com/Desmonlixo/cc_gen/blob/main/Milestone_1/Data_Schema/data_schema_TeamLarkw2.jpeg)**
 
 * **[Mood Boards](#)**
 
